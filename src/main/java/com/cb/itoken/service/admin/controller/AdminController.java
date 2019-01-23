@@ -1,7 +1,7 @@
 package com.cb.itoken.service.admin.controller;
 
+import com.cb.itoken.common.domain.TbSysUser;
 import com.cb.itoken.common.dto.BaseResult;
-import com.cb.itoken.service.admin.domain.TbSysUser;
 import com.cb.itoken.service.admin.service.AdminService;
 import com.google.common.collect.Lists;
 import org.apache.commons.lang3.StringUtils;

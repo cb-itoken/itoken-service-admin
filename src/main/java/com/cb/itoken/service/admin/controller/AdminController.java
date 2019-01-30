@@ -40,7 +40,7 @@ public class AdminController {
      * @return
      */
     @RequestMapping(method = RequestMethod.POST)
-    public BaseResult sava(
+    public BaseResult save(
             @RequestParam(required = true) String tbSysUserJson,
             @RequestParam(required = true) String optsBy
     ){
